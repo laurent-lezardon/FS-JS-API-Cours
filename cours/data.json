@@ -1,0 +1,18 @@
+{
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "sync.gist": "31b0c35144fac2ffd9d9e45115999016",
+    "sync.autoDownload": true,
+    "editor.bracketPairColorization.enabled": false,
+    "editor.guides.bracketPairs": true
+}
